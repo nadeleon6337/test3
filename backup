@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html lang=en> 
+
+  <head>
+ <style>
+div.a{ 
+    text-align: center;
+     }
+ </style>
+    <div class = "a">
+  <title> Noel Deleon's Student Portfolio </title>    
+
+ 
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    </head> 
+
+    <h1> Noel Deleon's Student Portfolio </h1>  
+
+    <a href="https://imgbb.com/"><img src="https://image.ibb.co/c2FvRz/noelsuit.jpg" alt="Noel-in-suit" border="0" style="width:250px;height:300px;" align="middle" ></a>
+
+<br>
+
+<audio controls>
+<source src="https://s1.vocaroo.com/media/download_temp/Vocaroo_s15KUO56oXLV.mp3" />
+</audio>
+<br>
+    <script>
+var x="";
+var time=new Date().getHours();
+if (time<20)
+  {
+                 x="Good day, welcome to my student portfolio";
+  }
+else
+  {
+                x="Good evening, welcome to my student portolio";
+  }
+document.write(x);
+                
+</script>
+    
+  <body>
+     <span class="Scholarships">
+    <h2> Student Positions</h2>
+        
+    <ul>
+      
+        <li> Math Major</li>
+        
+        <li> FGCU Wrestling President</li>
+            
+        <li> FGCU Honors Student</li>
+    </ul>
+    
+  
+  <span class="Scholarships">
+
+    <h2>Scholarships</h2>
+
+      <ul>
+
+        <li>Bright Futures   Academic Scholarship </li>
+
+        <li>Presidents Silver    Scholarship</li>
+        
+      </ul>
+
+  </span>
+
+   
+
+    <span id="COP"> 
+
+  <h2>Online Profiles</h2>
+
+    <ul>
+
+        <li> <a href="https://www.codecademy.com/nadeleon6337"> Codecademy</a> </li>
+
+        <li> <a href="https://scratch.mit.edu/users/nadeleon6337/"> Scratch</a> </li>
+      
+        <li> <a href="https://www.linkedin.com/in/noel-deleon-395623176/">LinkedIn</a> </li>
+
+    </ul>
+      
+ <h2>Career Interest</h2>
+      <ul>
+     <li> <a href="https://www.docdroid.net/3lFz7x7/cop-1500-fields-report.pdf">Fields Report</a> </li>
+      </ul>
+
+ 
+
+      <!DOCTYPE html>
+<html>
+<body>
+
+  <canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+</canvas>
+
+
+  
+  <script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.font = "15px Arial";
+ctx.fillText("About the Math Major",10,50);
+</script>
+
+  
+  
+  <br>
+  
+<video width="400" controls>
+  <source src="THeMAThMAjor.mp4" type="video/mp4">
+  <  Your browser does not support HTML5 video.
+</video>
+
+  <br>
+<a href="https://www.docdroid.net/3lFz7x7/cop-1500-fields-report.pdf">Fields Report</a>
+
+</body>
+</html>
+
+       </span> 
+  <br>
+       <svg width="400" height="180">
+  <rect x="50" y="20" rx="20" ry="20" width="150" height="150"
+  style="fill:blue;stroke:black;stroke-width:5;opacity:0.5" />
+Sorry, your browser does not support inline SVG.
+</svg>
+
+  </body>
+       
+       <h2> Usability </h2>
+       <p> This portfolio is created with many features to make the user experience more convinient. The image and video in this site have alternative text in case they do not load. The color of links have been changed so that they adequetely contrast with the gray background, helping visually impared users. Links keep  the user on the same tab, allowing them to hit the back button and return to the website. The text on the page is centered allowing for a more structured view on mobile and  no desktop. There are also breaks between between images and text so the whole websites is easier to scroll through.</p>  
+       </div>
+     
+  
+
+</html>
